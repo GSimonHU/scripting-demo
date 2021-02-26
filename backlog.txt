@@ -1,0 +1,23 @@
+1. Check stats of OS
+- Distirbution, version, last program(s) installed(which and when)
+
+2. Check stats of computer
+- Memory
+- CPU
+- Disk
+
+3. Check if programs are installed, location, version
+- postgresql
+- python
+- git
+
+4. Check if services installed and status
+- sshd
+- blootooth
+- NetworkManager
+
+5. List the top 5 processes consuming most of the CPU right now
+
+6. Simple menu for navigation:
+- echo out results
+- save results in log file with timestamp

@@ -1,5 +1,5 @@
 1. Check stats of OS
-- Distirbution, version, last program(s) installed(which and when)
+- Distirbution, version, last program(s) installed/uninstalled/modified(which and when)
 
 2. Check stats of computer
 - Memory

@@ -13,7 +13,7 @@
 
 4. Check if services installed and status
 - sshd
-- blootooth
+- bluetooth
 - NetworkManager
 
 5. List the top 5 processes consuming most of the CPU right now

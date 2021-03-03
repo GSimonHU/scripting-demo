@@ -1,6 +1,6 @@
 #!/bin/sh
 NUMBER_OF_CPU_THREADS="$(grep 'processor' /proc/cpuinfo | wc -l)"
-
+echo CPU Information:
 COUNT=1
 while [ $NUMBER_OF_CPU_THREADS -ge $COUNT ]
 do
